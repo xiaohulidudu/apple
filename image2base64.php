@@ -36,5 +36,5 @@ img_area.innerHTML = '<div class="sitetip">图片img标签展示：</div><img sr
 <input type="file" value="sdgsdg" id="demo_input" /> 
 <textarea id="result" rows=30 cols=300></textarea> 
 <p id="img_area"></p> 
-</body> 
+</body>  
 </html>
